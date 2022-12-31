@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Deployment
 
-The project is deployed at (Deployment Link) using Vercel.
+The project is deployed at https://notifications-page-gamma-inky.vercel.app using Vercel.
 
 ### Credits
 
